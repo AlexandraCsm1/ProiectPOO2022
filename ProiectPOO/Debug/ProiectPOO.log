@@ -1,0 +1,3 @@
+﻿  meniu.cpp
+c:\users\alex\source\repos\proiectpoo\proiectpoo\meniu.cpp(486): error C2660: 'adaugare_carte': function does not take 0 arguments
+  c:\users\alex\source\repos\proiectpoo\proiectpoo\meniu.cpp(239): note: see declaration of 'adaugare_carte'
