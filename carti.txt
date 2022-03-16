@@ -1,0 +1,19 @@
+5
+info	autor	titlu	cota	anul_aparitiei	nr_editie	imprumutata					
+carte1	a1	t1	c1	an1	nr1	im0
+carte2	a2	t2	c2	an2	nr2	im1
+carte3	a3	t3	c3	an3	nr3	im2
+carte4	a4	t4	c4	an4	nr4	im3
+romana						
+carte548 	asdfv 	zxcv	13245 	2000 	1500 	456 
+carte1	a1	t1	c1	an1	nr1	im0
+carte2	a2	t2	c2	an2	nr2	im1
+carte3	a3	t3	c3	an3	nr3	im2
+carte4	a4	t4	c4	an4	nr4	im3
+engleza						
+carte1	a1	t1	c1	an1	nr1	im0
+carte2	a2	t2	c2	an2	nr2	im1
+carte3	a3	t3	c3	an3	nr3	im2
+carte4	a4	t4	c4	an4	nr4	im3
+jhgfdcjkfg
+domeniu_Test
